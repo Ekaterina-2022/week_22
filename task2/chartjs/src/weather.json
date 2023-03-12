@@ -1,0 +1,26 @@
+{
+    "cities": [
+        {
+        "city": "Москва",
+        "sunny days": 72
+    } , {
+        "city": "Санкт-Петербург",
+        "sunny days": 67
+    }, {
+        "city": "Мурманск",
+        "sunny days": 54
+    } ,{
+        "city": "Оренбург",
+        "sunny days": 97
+    } ,{
+        "city": "Астрахань",
+        "sunny days": 100
+    } ,{
+        "city": "Сочи",
+        "sunny days": 91
+    } ,{
+        "city": "Хабаровск",
+        "sunny days": 102
+    } 
+    ]
+}
